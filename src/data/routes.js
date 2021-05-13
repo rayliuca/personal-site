@@ -1,29 +1,29 @@
 const routes = [
   {
     index: true,
-    label: "Michael D'Angelo",
+    label: 'Ray Liu',
     path: '/',
   },
   {
-    label: 'About',
-    path: '/about',
+    label: 'Projects',
+    path: '/',
   },
   {
     label: 'Resume',
     path: '/resume',
   },
   {
-    label: 'Projects',
-    path: '/projects',
+    label: 'About',
+    path: '/about',
   },
-  {
-    label: 'Stats',
-    path: '/stats',
-  },
-  {
-    label: 'Contact',
-    path: '/contact',
-  },
+  // {
+  //   label: 'Stats',
+  //   path: '/stats',
+  // },
+  // {
+  //   label: 'Contact',
+  //   path: '/contact',
+  // },
 ];
 
 export default routes;
