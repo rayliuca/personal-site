@@ -29,7 +29,7 @@ The CNC machine is a new member of the team. I have already milled some printed 
 
 <!-- ![Dolphin (left) and Whale (right)]() -->
 <div style="float:center; width:100%;padding:2em">
-  <img src="/personal-site/images/about/Dolphin_and_Whale.jpg" style="max-width:90%; display:block; margin:auto;" title="Dolphin (left) and Whale (right) chasing an orange ball in the snow" alt="Dolphin (left) and Whale (right) chasing an orange ball in the snow" />
+  <img src="/images/about/Dolphin_and_Whale.jpg" style="max-width:90%; display:block; margin:auto;" title="Dolphin (left) and Whale (right) chasing an orange ball in the snow" alt="Dolphin (left) and Whale (right) chasing an orange ball in the snow" />
 </div>
 
 
