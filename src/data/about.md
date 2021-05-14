@@ -35,4 +35,4 @@ The CNC machine is a new member of the team. I have already milled some printed 
 
 - I have 2 Shiba Inus, Whale and Dolphin
 - I own a Nikon D5100 DSLR camera, which I shot the two aforementioned doges primarily, but sometimes landscapes as well
-- Once upon a time, I played western concert flute for 8 years, and now I am trying to pick it up again!
+- Once upon a time, I actively learned/ practiced western concert flute for 8 years, and now trying to pick it up again!
