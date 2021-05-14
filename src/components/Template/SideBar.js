@@ -19,14 +19,16 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Michael. I like building things.
-        I am a <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC Alumni, and
-        the co-founder and CTO of <a href="https://arthena.com">Arthena</a>. Before Arthena I was
-        at <a href="https://matroid.com">Matroid</a>
-        , <a href="https://planet.com">Planet</a>
-        , <a href="https://planetaryresources.com">Planetary Resources</a>
-        , <a href="https://facebook.com">Facebook</a>
-        , and <a href="https://seds.org">SEDS</a>.
+      <p>
+        Hi, I&apos;m Ray. I like to make fun projects.
+        I am a new <a href="https://www.ualberta.ca/">University of Alberta</a> graduate
+        with a bachelor’s degree of Engineering Physics Co-op from
+        the <a href="https://www.ualberta.ca/engineering/electrical-computer-engineering">Department of Electrical and Computer Engineering</a>. I was the president of
+        the <a href="https://engphys.ca/">Eng Phys Club</a> and worked
+        at <a href="https://www.tricca.ca/">Tricca</a>
+        , <a href="https://www.microchip.com/">Microchip</a>
+        , <a href="http://binaryrg.ece.ualberta.ca/people">the Binary Lab</a>
+        , and <a href="https://hegmannthz.wordpress.com/">the Ultrafast Spectroscopy and Nanotools Labs</a>.
       </p>
       <ul className="actions">
         <li>
