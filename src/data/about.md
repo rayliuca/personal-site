@@ -1,6 +1,6 @@
 # Intro
 
-I’m a new grad of the Engineering Physics program of the University of Alberta, which is like a traditional electrical engineering program, but it puts a bit more emphasis on the mathematical and theoretical aspects. This program gave me a closer look into how physics models (Newtonian, quantum, etc. etc.) are made and applied in engineering. The way how we can use models to describe, study, and predict in various applications fascinates me.
+I’m a new grad of the Engineering Physics program of the University of Alberta, which is like a traditional electrical engineering program, but it puts a bit more emphasis on the mathematical and theoretical aspects. This program gave me a closer look into how physics models (Newtonian, quantum, etc. etc.) are made and applied in engineering. The way how we can use models to describe, study, and predict various systems fascinates me.
 
 # Currently
 

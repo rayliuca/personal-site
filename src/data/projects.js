@@ -52,7 +52,7 @@ const data = [
     image: '/images/projects/TravelAdvisoriesMap.png',
     date: '2020-03-1',
     desc:
-      'Present the travel advisories in an easy to access map! Before COVID became a pandemic, '
+      'Presents the travel advisories in an easy to access map! Before COVID became a pandemic, '
       + 'Canadians were advised not to travel to countries with high risk of infection. '
       + 'Using Google App Script, I scrape the data from the Official Global Travel Advisories daily '
       + 'and mapped them on Tableau Public',
