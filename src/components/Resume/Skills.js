@@ -81,7 +81,9 @@ class Skills extends Component {
           {this.getButtons()}
         </div>
         <div className="skill-row-container">
+          {/* <div style={{ display: 'table-row' }}> */}
           {this.getRows()}
+          {/* </div> */}
         </div>
       </div>
     );

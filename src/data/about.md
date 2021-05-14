@@ -4,7 +4,7 @@ I’m a new grad of the Engineering Physics program of the University of Alberta
 
 # Currently
 
-After finishing my course works, I am planning and have begun to learn some popular tools and work on some projects, such as:
+After finishing my degree, I am planning and have begun to learn some popular tools and work on some projects, such as:
 
 - this website!
 - Docker
@@ -33,5 +33,5 @@ The CNC machine is a new member of the team. I have already milled some printed 
 
 
 - I have 2 Shiba Inus, Whale and Dolphin
-- I own a Nikon D5100 DSLR camera, which I shot the two aforementioned doges primarily, but sometimes landscapes as well
+- I own a Nikon D5100 DSLR camera, which I shoot the two aforementioned doges primarily, but sometimes landscapes as well
 - Once upon a time, I actively learned/ practiced western concert flute for 8 years, and now I'm trying to pick it up again!
