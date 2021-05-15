@@ -8,13 +8,18 @@ const skills = [
     category: ['Web Development', 'Languages', 'Javascript'],
   },
   {
+    title: 'Tcl/Tk',
+    competency: 2,
+    category: ['Languages'],
+  },
+  {
     title: 'Google App Script',
     competency: 4,
     category: ['Tools', 'Web Development', 'Javascript'],
   },
   {
     title: 'Node.JS',
-    competency: 3,
+    competency: 2.5,
     category: ['Web Development', 'Javascript'],
   },
   {
@@ -39,7 +44,7 @@ const skills = [
   },
   {
     title: 'MongoDB',
-    competency: 3,
+    competency: 2.5,
     category: ['Web Development', 'Databases'],
   },
   {
@@ -56,6 +61,16 @@ const skills = [
     title: 'Express.JS',
     competency: 2,
     category: ['Web Development', 'Javascript'],
+  },
+  {
+    title: 'Leaflet',
+    competency: 3,
+    category: ['Web Development', 'Javascript', 'Data Engineering'],
+  },
+  {
+    title: 'Tableau',
+    competency: 3,
+    category: ['Data Engineering', 'Tools'],
   },
   {
     title: 'Flask',
@@ -118,7 +133,7 @@ const skills = [
     category: ['Languages', 'Python'],
   },
   {
-    title: 'C++',
+    title: 'C/C++',
     competency: 3,
     category: ['Languages'],
   },
