@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import ReactMarkdown from 'react-markdown';
 import raw from 'raw.macro';
+// import { Helmet } from 'react-helmet-async';
 
 import Main from '../layouts/Main';
 
@@ -18,7 +19,7 @@ const LinkRenderer = ({ ...children }) => <Link {...children} />;
 const About = () => (
   <Main
     title="About"
-    description="Learn about Ray Liu"
+    description="Here you can learn some small facts about me!"
   >
     {/* <title>About</title>
     <meta name="description" content="Learn about Ray Liu"> */}
