@@ -17,11 +17,11 @@ const footerIconStyle = {
 
 const Footer = () => (
   <div style={footerStyle}>
-    <h1>
+    <h2>
       <a href="https://github.com/rayliuca/rayliuca.github.io">
         <FontAwesomeIcon icon={faGithub} style={footerIconStyle} />
       </a>
-    </h1>
+    </h2>
   </div>
 );
 

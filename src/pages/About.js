@@ -1,4 +1,5 @@
 import React from 'react';
+// import ReactDOM from 'react-dom';
 import { Link } from 'react-router-dom';
 import ReactMarkdown from 'react-markdown';
 import raw from 'raw.macro';
@@ -20,6 +21,8 @@ const About = () => (
     title="About"
     description="Learn about Ray Liu"
   >
+    {/* <title>About</title>
+    <meta name="description" content="Learn about Ray Liu"> */}
     <article className="post markdown" id="about">
       <header>
         <div className="title">

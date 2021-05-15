@@ -12,10 +12,6 @@ const Main = (props) => (
   <HelmetProvider>
     <Analytics />
     <ScrollToTop />
-    <Helmet titleTemplate="%s | Ray Liu" defaultTitle="Ray Liu">
-      {props.title && <title>{props.title}</title>}
-      <meta name="description" content={props.description} />
-    </Helmet>
     <div id="wrapper">
       <Navigation />
       <div id="main">
@@ -24,6 +20,10 @@ const Main = (props) => (
       {props.fullPage ? null : <SideBar />}
     </div>
     <Footer />
+    <Helmet titleTemplate="Ray Liu | %s" defaultTitle="Ray Liu">
+      {props.title && <title>{props.title}</title>}
+      <meta name="description" content={props.description} />
+    </Helmet>
   </HelmetProvider>
 );
 
