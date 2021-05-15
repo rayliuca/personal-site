@@ -18,8 +18,9 @@ import publications from '../data/resume/publications';
 
 const sections = [
   'Education',
-  'Experience',
   'Skills',
+  'Experience',
+  'Bibliography',
   'Courses',
   'References',
 ];
