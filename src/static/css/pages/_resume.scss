@@ -27,6 +27,20 @@
 	}
 	.experience {
 		.title {
+			padding-top: 1.6em;
+			text-align: center;
+		}
+		.job {
+			margin: 1em;
+			p{
+				margin: 0;
+			}
+		}
+	}
+
+	.bibliography {
+		.title {
+			padding-top: 1em;
 			text-align: center;
 		}
 		.job {
@@ -63,6 +77,7 @@
 
 	.skills {
 		margin-top: 2em;
+		margin-bottom: 1em;
 		.title {
 			text-align: center;
 			p {

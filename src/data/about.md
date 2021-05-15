@@ -17,7 +17,7 @@ Besides the projects I publish, I’m also always working on some small side pro
 
 　
 
-For example, for the sake of engineering, I design and build a ring box for my iron ring using 3D printed parts, a rubber band, packaging padding, and some super glue. (since the sound of the ring knocking on my tablet is quite stressful)
+For example, for the sake of engineering, I design and build a ring box for my iron ring using 3D printed parts, a rubber band, packaging padding, and some super glue. (Since the sound of the ring knocking on my tablet is quite stressful, I don't wear it all that often and I don't want to lose it.)
 
 　
 
