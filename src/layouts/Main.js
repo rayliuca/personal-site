@@ -20,7 +20,7 @@ const Main = (props) => (
       {props.fullPage ? null : <SideBar />}
     </div>
     <Footer />
-    <Helmet titleTemplate="Ray Liu | %s" defaultTitle="Ray Liu">
+    <Helmet titleTemplate="Ray Liu | %s" defaultTitle="Ray Liu" defer={false}>
       {props.title && <title>{props.title}</title>}
       <meta name="description" content={props.description} />
     </Helmet>
