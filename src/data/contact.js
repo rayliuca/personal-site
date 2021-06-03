@@ -4,7 +4,7 @@ import { faGithub } from '@fortawesome/free-brands-svg-icons/faGithub';
 import { faLinkedinIn } from '@fortawesome/free-brands-svg-icons/faLinkedinIn';
 // import { faAngellist } from '@fortawesome/free-brands-svg-icons/faAngellist';
 // import { faTwitter } from '@fortawesome/free-brands-svg-icons/faTwitter';
-// import { faKaggle } from '@fortawesome/free-brands-svg-icons/faKaggle';
+import { faKaggle } from '@fortawesome/free-brands-svg-icons/faKaggle';
 import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
 
 // See https://fontawesome.com/icons?d=gallery&s=brands,regular&m=free
@@ -41,11 +41,11 @@ const data = [
   //   label: 'Twitter',
   //   icon: faTwitter,
   // },
-  // {
-  //   link: 'https://kaggle.com/rayliuca',
-  //   label: 'Kaggle',
-  //   icon: faKaggle,
-  // },
+  {
+    link: 'https://kaggle.com/rayliuca',
+    label: 'Kaggle',
+    icon: faKaggle,
+  },
   {
     link: 'mailto:ray@rayliu.ca',
     label: 'Email',

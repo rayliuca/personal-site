@@ -8,8 +8,8 @@ import data from '../data/projects';
 
 const Projects = () => (
   <Main
-    title="Recent Projects"
-    description="Here are some project I did recently."
+    title="Some of My Recent Projects"
+    description="Here are some projects I did recently."
   >
     <article className="post" id="projects">
       <header>

@@ -6,7 +6,7 @@ const routes = [
   },
   {
     label: 'Projects',
-    path: '/',
+    path: '/projects',
   },
   {
     label: 'Resume',

@@ -5,27 +5,27 @@ import Main from '../layouts/Main';
 
 const Index = () => (
   <Main
+    title="New Grad - Seeking Data Science and Software Opportunities"
     description={"Ray Liu's personal website. New graduate from"
-    + ' the University of Alberta, Electrical and Computer Engineering Department'}
+    + ' the University of Alberta, Electrical and Computer Engineering Department.'}
   >
     <article className="post" id="index">
       <header>
         <div className="title">
           <h2 data-testid="heading"><Link to="/">About this site</Link></h2>
           <p>
-            A beautiful, responsive, statically-generated,
-            react application written with modern Javascript.
+            Some things about me and projects I did for fun
           </p>
         </div>
       </header>
       <p> Welcome to my website. Please feel free to read more <Link to="/about">about me</Link>,
         or you can check out my {' '}
-        <Link to="/resume">resume</Link>, {' '}
-        <Link to="/projects">projects</Link>, {' '}
-        view <Link to="/stats">site statistics</Link>, {' '}
-        or <Link to="/contact">contact</Link> me.
+        <Link to="/projects">projects</Link> {' '}
+        and <Link to="/resume">resume</Link>. {' '}
       </p>
-      <p> Source available <a href="https://github.com/mldangelo/personal-site">here</a>.</p>
+      <p> Also, I am currently seeking data science or software engineering opportunities. {' '}
+        Please <a href="mailto:ray@rayliu.ca">contact</a> me if you know any :)
+      </p>
     </article>
   </Main>
 );
