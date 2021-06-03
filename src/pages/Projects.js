@@ -9,7 +9,9 @@ import data from '../data/projects';
 const Projects = () => (
   <Main
     title="Some of My Recent Projects"
-    description="Here are some projects I did recently."
+    description={'Here are some projects I did recently,'
+                + 'such as the passive investment tool PayDayRobo'
+                + 'that won the Best use of Google Cloud award in HackED2021'}
   >
     <article className="post" id="projects">
       <header>

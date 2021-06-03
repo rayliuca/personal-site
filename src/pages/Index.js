@@ -5,7 +5,7 @@ import Main from '../layouts/Main';
 
 const Index = () => (
   <Main
-    title="New Grad - Seeking Data Science and Software Opportunities"
+    title="Seeking Data Science and Software Opportunities"
     description={"Ray Liu's personal website. New graduate from"
     + ' the University of Alberta, Electrical and Computer Engineering Department.'}
   >

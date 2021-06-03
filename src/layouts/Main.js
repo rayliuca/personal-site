@@ -8,8 +8,6 @@ import SideBar from '../components/Template/SideBar';
 import ScrollToTop from '../components/Template/ScrollToTop';
 import Footer from '../components/Template/Footer';
 
-// import UpdateMetaDesc from './AddDesc';
-
 function UpdateMetaDesc(MetaDec) {
   const MetaDescEle = document.querySelector('meta[name=description]');
 
