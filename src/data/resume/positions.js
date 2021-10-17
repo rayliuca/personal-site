@@ -28,7 +28,7 @@ const positions = [
     points: [
       'Working with the industry partner - ATB Financial.',
       'Developing customer sizing prediction and growth stage classification models.',
-      'Generating and selecting features from transaction history and account characteristics.'
+      'Generating and selecting features from transaction history and account characteristics.',
     ],
   },
   {
