@@ -33,7 +33,7 @@ const skills = [
     category: ['Tools', 'Languages'],
   },
   {
-    title: 'Amazon Web Services',
+    title: 'Amazon Web Services (AWS)',
     competency: 2,
     category: ['Web Development', 'Tools'],
   },
@@ -51,6 +51,16 @@ const skills = [
     title: 'PostgreSQL/MySQL/SQL',
     competency: 3,
     category: ['Web Development', 'Databases', 'Languages'],
+  },
+  {
+    title: 'BigQuery',
+    competency: 3,
+    category: ['Web Development', 'Databases', 'Tools'],
+  },
+  {
+    title: 'Google Cloud Platform (GCP)',
+    competency: 3,
+    category: ['Web Development', 'Tools'],
   },
   {
     title: 'Data Mining',
