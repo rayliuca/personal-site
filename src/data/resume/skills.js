@@ -78,7 +78,7 @@ const skills = [
     category: ['Web Development', 'Python'],
   },
   {
-    title: 'Git/GitHub/BitBucket',
+    title: 'Git/GitHub/BitBucket/GitLab',
     competency: 3,
     category: ['Tools'],
   },

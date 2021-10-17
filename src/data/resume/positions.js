@@ -20,7 +20,17 @@ const positions = [
   //     'Performed supporting analysis to ensure data integrity using Pandas, t-SNE, SVM’s, and other techniques.',
   //   ],
   // },
-
+  {
+    company: 'AltaML',
+    position: 'Associate Machine Learning Developer',
+    link: 'https://www.altaml.com/',
+    daterange: 'October 2021 - Current',
+    points: [
+      'Working with the industry partner - ATB Financial.',
+      'Developing customer sizing prediction and growth stage classification models.',
+      'Generating and selecting features from transaction history and account characteristics.'
+    ],
+  },
   {
     company: 'Tricca Technologies',
     position: 'Research and Development Co-op',
@@ -28,7 +38,7 @@ const positions = [
     daterange: 'June 2020 - August 2020',
     points: [
       'Tricca Technologies is a startup company focused on medical device development.',
-      'Designed C++ firmware, circuits, PCBs, and 3D printed parts for an electric arc ampoule sealer for independent laboratories to repackage expensive chemical standards into smaller ampoules, reducing cost and waste',
+      'Designed C++ firmware, circuits, PCBs, and 3D printed parts for an electric arc ampoule sealer for independent laboratories to repackage expensive chemical standards into smaller ampoules, reducing cost and waste.',
     ],
   },
   {
@@ -48,7 +58,7 @@ const positions = [
     link: 'http://binaryrg.ece.ualberta.ca/',
     daterange: 'January 2019 - August 2019',
     points: [
-      'Worked on a smart Arduino IoT device to perform colorectal cancer screening',
+      'Worked on a smart Arduino IoT device to perform colorectal cancer screening.',
       'funded by the National Institutes of Health (NIH) for patients in Nigeria.',
       'Programmed the screening tests using colorimetric reactions based on metabolite concentrations in urine.',
       'Established calibration algorithms to mitigate variations between sensors.',
