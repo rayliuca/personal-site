@@ -26,9 +26,9 @@ const positions = [
     link: 'https://www.altaml.com/',
     daterange: 'October 2021 - Current',
     points: [
-      'Working with the industry partner - ATB Financial.',
-      'Developing customer sizing prediction and growth stage classification models.',
-      'Generating and selecting features from transaction history and account characteristics.',
+      'Developing models to provide personalized service to customers.',
+      'Building data pipelines using BigQuery and Python.',
+      'Applying models such as random forests, XGBoost, and TabNet.',
     ],
   },
   {
