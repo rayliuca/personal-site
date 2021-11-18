@@ -25,7 +25,8 @@ const SideBar = () => (
         with a bachelor’s degree of Engineering Physics Co-op from
         the <a href="https://www.ualberta.ca/engineering/electrical-computer-engineering">Department of Electrical and Computer Engineering</a>. I was the president of
         the <a href="https://engphys.ca/">Eng Phys Club</a> and worked
-        at <a href="https://www.tricca.ca/">Tricca</a>
+        at <a href="https://www.altaml.com/">AltaML</a>
+        , <a href="https://www.tricca.ca/">Tricca</a>
         , <a href="https://www.microchip.com/">Microchip</a>
         , <a href="http://binaryrg.ece.ualberta.ca/people">the Binary Lab</a>
         , and <a href="https://hegmannthz.wordpress.com/">the Ultrafast Spectroscopy and Nanotools Labs</a>.

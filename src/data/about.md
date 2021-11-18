@@ -6,8 +6,7 @@ I’m a new grad of the Engineering Physics program of the University of Alberta
 
 After finishing my degree, I am planning and have begun to learn some popular tools and work on some projects, such as:
 
-- this website!
-- Docker
+
 - Java
 - some machine learning projects
 
@@ -17,7 +16,7 @@ Besides the projects I publish, I’m also always working on some small side pro
 
 　
 
-For example, for the sake of engineering, I design and build a ring box for my iron ring using 3D printed parts, a rubber band, packaging padding, and some super glue. (Since the sound of the ring knocking on my tablet is quite stressful, I don't wear it all that often and I don't want to lose it.)
+For example, for the sake of engineering, I designed and built a ring box for my iron ring using 3D printed parts, a rubber band, packaging padding, and some super glue. (Since the sound of the ring knocking on my tablet is quite stressful, I don't wear it all that often and I don't want to lose it.)
 
 　
 

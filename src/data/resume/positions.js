@@ -27,8 +27,9 @@ const positions = [
     daterange: 'October 2021 - Current',
     points: [
       'Developing models to provide personalized service to customers.',
-      'Building data pipelines using BigQuery and Python.',
+      'Building ETL data pipelines using BigQuery and Python.',
       'Applying models such as random forests, XGBoost, and TabNet.',
+      'Communicating the abilities and limitations of ML systems to developers, product managers, and internal product users.',
     ],
   },
   {
@@ -47,9 +48,8 @@ const positions = [
     link: 'https://www.microsemi.com/',
     daterange: 'September 2019 - December 2019',
     points: [
-      'Automated version auditing process to greatly improve operational flow and reduce version mismatch between various design steps using RESTful API and Python, saving managers from manually auditing over 3000 entries of version records. Reduced version auditing time from hours to minutes.',
-      'Scripted my place-and-route processes in Tcl/Tk so the work is still usable should the designs change.',
-      'Worked with the Atlassian software ecosystem, such as Bitbucket and Jira.',
+      'Automated component metadata cross-validation process to improve operational flow, using RESTful API and Python.',
+      'Routed parts of the cutting-edge META-DX1 ethernet chip at the top level, which is capable of up to 1.2 Tbps capacity throughput in a single chip.',
     ],
   },
   {
