@@ -21,10 +21,23 @@ const positions = [
   //   ],
   // },
   {
+    company: 'DrugBank',
+    position: 'Machine Learning Engineer II',
+    link: 'https://www.drugbank.com/',
+    daterange: 'December 2022 - Current',
+    points: [
+      'Accelerated clinical data curation velocity by 33% by pre-annotating input text using a NER transformer (BERT) NLP model.',
+      'Normalized text entities to the DrugBank database using fine-tuned search/ ranking bi-encoder models with >88% F1.',
+      'Increased sales funnel conversion rate estimation F1 score by 40% using data mining/ analytics techniques.',
+      'Deployed several models to process PubMed abstracts using BentoML to enable high-throughput data mining.',
+      'Mitigated over 400 Depend Bot vulnerabilities by migrating tech debt from TensorFlow 1 to the newest HuggingFace/ PyTorch architecture.',
+    ],
+  },
+  {
     company: 'AltaML',
     position: 'Associate Machine Learning Developer',
     link: 'https://www.altaml.com/',
-    daterange: 'October 2021 - Current',
+    daterange: 'October 2021 - December 2021',
     points: [
       'Developing models to provide personalized service to customers.',
       'Building ETL data pipelines using BigQuery and Python.',

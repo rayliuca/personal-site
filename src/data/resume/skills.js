@@ -4,7 +4,7 @@
 const skills = [
   {
     title: 'Javascript',
-    competency: 4,
+    competency: 3,
     category: ['Web Development', 'Languages', 'Javascript'],
   },
   {
@@ -14,7 +14,7 @@ const skills = [
   },
   {
     title: 'Google App Script',
-    competency: 4,
+    competency: 3,
     category: ['Tools', 'Web Development', 'Javascript'],
   },
   {
@@ -33,8 +33,13 @@ const skills = [
     category: ['Tools', 'Languages'],
   },
   {
+    title: 'Linux',
+    competency: 3.5,
+    category: ['Tools', 'Data Engineering'],
+  },
+  {
     title: 'Amazon Web Services (AWS)',
-    competency: 2,
+    competency: 3.1,
     category: ['Web Development', 'Tools'],
   },
   {
@@ -49,7 +54,7 @@ const skills = [
   },
   {
     title: 'PostgreSQL/MySQL/SQL',
-    competency: 3,
+    competency: 3.5,
     category: ['Web Development', 'Databases', 'Languages'],
   },
   {
@@ -64,7 +69,7 @@ const skills = [
   },
   {
     title: 'Data Mining',
-    competency: 3,
+    competency: 4,
     category: ['Data Science'],
   },
   {
@@ -89,7 +94,7 @@ const skills = [
   },
   {
     title: 'Git/GitHub/BitBucket/GitLab',
-    competency: 3,
+    competency: 4,
     category: ['Tools'],
   },
   {
@@ -99,7 +104,7 @@ const skills = [
   },
   {
     title: 'Docker',
-    competency: 2,
+    competency: 4,
     category: ['Tools', 'Data Engineering', 'Web Development'],
   },
   {
@@ -114,7 +119,7 @@ const skills = [
   },
   {
     title: 'Numba',
-    competency: 1,
+    competency: 2,
     category: ['Data Science', 'Data Engineering', 'Python'],
   },
   {
@@ -129,7 +134,7 @@ const skills = [
   },
   {
     title: 'HTML',
-    competency: 3,
+    competency: 2.8,
     category: ['Web Development', 'Languages'],
   },
   {
@@ -154,7 +159,7 @@ const skills = [
   },
   {
     title: 'Data Visualization',
-    competency: 3,
+    competency: 3.5,
     category: ['Data Science', 'Javascript'],
   },
   {
@@ -163,25 +168,36 @@ const skills = [
     category: ['Data Engineering', 'Data Science', 'Python'],
   },
   {
+    title: 'Plot.ly',
+    competency: 4,
+    category: ['Data Engineering', 'Data Science', 'Python'],
+  },
+  {
     title: 'Seaborn',
-    competency: 3,
+    competency: 4,
     category: ['Data Engineering', 'Data Science', 'Python'],
   },
   {
     title: 'Matplotlib',
-    competency: 2,
-    category: ['Data Engineering', 'Data Science', 'Python'],
-  },
-  {
-    title: 'Scikit-Learn',
     competency: 3,
     category: ['Data Engineering', 'Data Science', 'Python'],
   },
   {
+    title: 'Scikit-Learn',
+    competency: 4.5,
+    category: ['Data Engineering', 'Data Science', 'Python'],
+  },
+  {
     title: 'PyTorch',
-    competency: 2,
+    competency: 3.8,
     category: ['Data Science', 'Python'],
   },
+  {
+    title: 'HuggingFace Transformers',
+    competency: 5,
+    category: ['Data Science', 'Python'],
+  },
+
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
 
 // this is a list of colors that I like. The length should be == to the

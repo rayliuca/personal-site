@@ -5,9 +5,8 @@ import Main from '../layouts/Main';
 
 const Index = () => (
   <Main
-    title="Seeking Data Science and Software Opportunities"
-    description={"Ray Liu's personal website. New graduate from"
-    + ' the University of Alberta, Electrical and Computer Engineering Department.'}
+    title="Machine Learning Engineer"
+    description={"Ray Liu's personal website. Machine Learning Engineer/ Data Scientist at DrugBank."}
   >
     <article className="post" id="index">
       <header>
@@ -22,9 +21,6 @@ const Index = () => (
         or you can check out my {' '}
         <Link to="/projects">projects</Link> {' '}
         and <Link to="/resume">resume</Link>. {' '}
-      </p>
-      <p> Also, I am currently seeking data science or software engineering opportunities. {' '}
-        Please <a href="mailto:ray@rayliu.ca">contact</a> me if you know any :)
       </p>
     </article>
   </Main>

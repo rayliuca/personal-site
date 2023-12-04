@@ -21,10 +21,8 @@ const SideBar = () => (
       <h2>About</h2>
       <p>
         Hi, I&apos;m Ray. I like to make fun projects.
-        I am a new <a href="https://www.ualberta.ca/">University of Alberta</a> graduate
-        with a bachelor’s degree of Engineering Physics Co-op from
-        the <a href="https://www.ualberta.ca/engineering/electrical-computer-engineering">Department of Electrical and Computer Engineering</a>. I was the president of
-        the <a href="https://engphys.ca/">Eng Phys Club</a> and worked
+        I am a Machine Learning Engineer at <a href="https://www.drugbank.com/">DrugBank</a> and a <a href="https://www.ualberta.ca/">UAlberta</a> <a href="https://www.ualberta.ca/engineering/co-op/our-program/disciplines-and-specializations/engineering-physics.html">Engineering Physics</a> graduate.
+        Previously, I worked
         at <a href="https://www.altaml.com/">AltaML</a>
         , <a href="https://www.tricca.ca/">Tricca</a>
         , <a href="https://www.microchip.com/">Microchip</a>
