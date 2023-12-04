@@ -14,6 +14,7 @@ const ContactIcons = () => (
   <ul className="icons">
     {data.map((s) => (
       <li key={s.label}>
+        {/* eslint-disable-next-line jsx-a11y/control-has-associated-label */}
         <a href={s.link}>
           <FontAwesomeIcon icon={s.icon} style={socialIconStyle} />
         </a>

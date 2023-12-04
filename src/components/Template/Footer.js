@@ -18,6 +18,7 @@ const footerIconStyle = {
 const Footer = () => (
   <div style={footerStyle}>
     <h2>
+      {/* eslint-disable-next-line jsx-a11y/control-has-associated-label */}
       <a href="https://github.com/rayliuca/rayliuca.github.io">
         <FontAwesomeIcon icon={faGithub} style={footerIconStyle} />
       </a>
